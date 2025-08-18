@@ -36,3 +36,7 @@ Click the ```Vive``` button to pull out the ```Vive Menu```(you can always pull 
 5, Go to the lobby again, click on ```Library``` and click on the Monior icon on the upper right corner to switch to ```PC VR Apps``` and you should see the ```SteamVR``` app and other VR apps you have on your PC.
 
 6, Launch any app by aiming at them and press the trigger.
+
+7, During gameplay with ```SteamVR```, you can press the ```Context Button``` on the left controller to pull out the steam menu to stop or launch other games:
+
+<img src="assets/contextButton.png" width=400>
