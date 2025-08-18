@@ -6,9 +6,11 @@ Notes on how to operate the Vive Focus
 
 There are 2 ways to toggle see through.
 1, Double click the circle button on the right side of the headset (physical button)  
+
 <img src="assets/seeThrough.png" width=400>
 
 2, Double click on the ```Vive``` button on the right controller:
+
 <img src="assets/viveButton.png" width=400>
 
 ## Quit An App
